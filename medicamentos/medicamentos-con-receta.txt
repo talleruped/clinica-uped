@@ -8,3 +8,4 @@
 - Losartán
 - Atorvastatina
 - Simvastatina
+- acetaminofen
