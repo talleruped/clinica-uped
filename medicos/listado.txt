@@ -5,3 +5,4 @@
 - Doctora Maria
 - Doctora Sofia
 - Doctor Carlos
+- Doctor Torres
