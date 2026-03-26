@@ -2,3 +2,6 @@
 - Doctora Polo
 - Doctor Juan
 - Doctora Ana
+- Doctora Maria
+- Doctora Sofia
+- Doctor Carlos
