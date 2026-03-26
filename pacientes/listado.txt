@@ -10,3 +10,4 @@
 - Alejandro Hernandez
 - Ian Portillo
 - Carlos Hernandez
+- Christian Monterrosa
